@@ -1,6 +1,10 @@
 {
   "name": "postmen-api",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntrrobng/postmen-api.git"
+  },
   "description": "An NPM implementation of the Postmen shipping API (https://docs.postmen.com/)",
   "main": "index.js",
   "scripts": {

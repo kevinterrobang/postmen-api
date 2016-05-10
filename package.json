@@ -1,0 +1,22 @@
+{
+  "name": "postmen-api",
+  "version": "0.0.1",
+  "description": "An NPM implementation of the Postmen shipping API (https://docs.postmen.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "querystring": "~0.2.0",
+    "request": "~2.30.0",
+    "sync-request": "^3.0.0"
+  },
+  "keywords": [
+    "postmen",
+    "shipping",
+    "logistics",
+    "api"
+  ],
+  "author": "Kevin Sweeney <sweeney.kj@gmail.com>",
+  "license": "MIT"
+}
